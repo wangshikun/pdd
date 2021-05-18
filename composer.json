@@ -1,6 +1,7 @@
 {
     "name": "wang/sdk",
     "description": "pdd",
+    "version": "1.0",
     "require": {
         "php": "^5.5|^7.0",
         "ext-curl": "*",
