@@ -1,7 +1,7 @@
 {
     "name": "wang/sdk",
     "description": "适用于拼多多的sdk",
-    "version": "1.0.1",
+    "version": "v1.0.1",
     "license": "MIT",
     "require": {
         "php": ">=7.1.0"
